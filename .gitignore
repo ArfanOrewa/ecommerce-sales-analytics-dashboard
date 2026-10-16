@@ -1,0 +1,11 @@
+# Generated datasets (recreate with: python generate_data.py)
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Streamlit
+.streamlit/
